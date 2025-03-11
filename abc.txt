@@ -1,0 +1,3 @@
+Hello everyone
+How are you?
+Lets learn some concepts of machine learning.
