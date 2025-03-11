@@ -8,3 +8,4 @@ K Nearest Neighbours
 Support Vector Machines
 Decision Tree
 Random Forest
+Bagging
