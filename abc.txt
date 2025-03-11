@@ -5,3 +5,4 @@ Linear regression
 logistic regression
 K means clustering
 K Nearest Neighbours
+Support Vector Machines
