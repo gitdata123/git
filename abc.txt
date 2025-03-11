@@ -3,3 +3,4 @@ How are you?
 Lets learn some concepts of machine learning.
 Linear regression
 logistic regression
+K means clustering
